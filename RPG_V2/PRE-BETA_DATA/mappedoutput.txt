@@ -1,0 +1,15 @@
+Compressed: False
+Description: 
+Device ID: U:
+File System: NTFS
+Free Space: 75559968768
+Maximum Component Length: 255
+Name: U:
+Provider Name: \\ceres\users\2018\vpastor
+Session ID: 220542
+Size: 524288000
+Supports Disk Quotas: True
+Supports File-Based Compression: True
+Volume Name: Data
+Volume Serial Number: D092B299
+

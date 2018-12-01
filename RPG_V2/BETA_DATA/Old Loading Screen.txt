@@ -1,0 +1,1123 @@
+'Loading Screen
+
+Set objExplorer = CreateObject _
+		("InternetExplorer.Application")
+	objExplorer.Navigate "about:blank"   
+	objExplorer.ToolBar = 0
+	objExplorer.StatusBar = 0
+	objExplorer.Width = 400
+	objExplorer.Height = 200 
+	objExplorer.Visible = 1             
+
+	objExplorer.Document.Title = "RPG V2"
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete"
+		Wscript.sleep 5000
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..."
+		Wscript.sleep 300
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...__"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...__________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...__________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete..._______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables..."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... __"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... __________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... __________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... _______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _ 
+		& " Functions.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions..."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... __"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... __________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... __________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... _______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu..."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... __"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... __________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... __________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... _______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop..."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... __"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... __________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... __________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... _______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons"
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons.."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons..."
+		Wscript.sleep 500
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... __"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ___"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _____"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _______"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... __________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ___________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _____________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _______________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... __________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ___________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _____________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... _______________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ________________________"
+		Wscript.sleep 100
+	objExplorer.Document.Body.InnerHTML = "Loading Game Resources and Data... " _
+		& "This might take some time to complete...________________________" _
+		& " > _" _
+		& " Variables... ________________________ DONE" _
+		& " Functions... ________________________ DONE" _
+		& " Main Menu... ________________________ DONE" _
+		& " Shop... ________________________ DONE" _
+		& " Dungeons... ________________________ DONE"
+		Wscript.sleep 500
+
+	Wscript.Sleep 1000
+
+	objExplorer.Document.Body.InnerHTML = "Game Loaded! Exiting now to main menu..."
+
+	Wscript.Sleep 5000
+
+
+
+	objExplorer.Quit
+	Play=0
+

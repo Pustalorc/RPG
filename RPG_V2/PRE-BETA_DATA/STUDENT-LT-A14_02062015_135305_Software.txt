@@ -1,0 +1,34 @@
+INSTALLED SOFTWARE (31) - STUDENT-LT-A14 - 06/02/2015 13:53:06
+
+ActivDriver x64 v5.9	Ver: 5.9.27	Installed: 04/08/2014
+Barracuda Network Access Client 3.4 x64	Ver: 7.05.101	Installed: 03/09/2014
+CDBurnerXP (64 bit)	Ver: 4.5.4.5000	Installed: 12/08/2014
+Java 7 Update 67 (64-bit)	Ver: 7.0.670	Installed: 12/08/2014
+Microsoft .NET Framework 4 Client Profile	Ver: 4.0.30319
+Microsoft .NET Framework 4 Client Profile	Ver: 4.0.30319	Installed: 14/01/2015
+Microsoft .NET Framework 4 Extended	Ver: 4.0.30319
+Microsoft .NET Framework 4 Extended	Ver: 4.0.30319	Installed: 11/10/2014
+Microsoft Application Error Reporting	Ver: 12.0.6015.5000	Installed: 03/09/2014
+Microsoft Lync 2010	Ver: 4.0.7577.4446	Installed: 03/09/2014
+Microsoft Office IME (Chinese (Simplified)) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office IME (Chinese (Traditional)) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office IME (Japanese) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office IME (Korean) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office Office 64-bit Components 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office Shared 64-bit MUI (English) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010	Ver: 14.0.7015.1000	Installed: 14/01/2015
+Microsoft Online Services Sign-in Assistant	Ver: 7.250.4303.0	Installed: 03/09/2014
+Microsoft Security Client	Ver: 4.5.0216.0	Installed: 04/08/2014
+Microsoft Security Essentials	Ver: 4.5.216.0	Installed: 04/08/2014
+Microsoft Silverlight	Ver: 5.1.30514.0	Installed: 04/08/2014
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148	Ver: 9.0.30729.4148	Installed: 03/09/2014
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219	Ver: 10.0.40219	Installed: 04/08/2014
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)	Ver: 10.0.40303
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)	Ver: 10.0.40308	Installed: 04/08/2014
+MSVCRT110_amd64	Ver: 16.4.1109.0912	Installed: 03/09/2014
+Synaptics Pointing Device Driver	Ver: 16.0.3.0
+Windows Driver Package - phion AG phion Virtual Adapter (11/02/2011 4.0.2.5)	Ver: 11/02/2011 4.0.2.5
+Windows Driver Package - Texas Instruments Inc. (SilvrLnk) USB  (06/11/2009 1.0.0.0)	Ver: 06/11/2009 1.0.0.0
+Windows Driver Package - Texas Instruments Inc. (TIEHDUSB) USB  (09/02/2009 1.0.0.1)	Ver: 09/02/2009 1.0.0.1
+Windows Live ID Sign-in Assistant	Ver: 7.250.4311.0	Installed: 03/09/2014
+
